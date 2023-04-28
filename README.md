@@ -9,4 +9,4 @@ Use [Thorny](https://thonny.org/) to upload secrets.py and setup_phew.py to your
 From Thorny update the secrets.py parameters with your specific Wifi credentials  
 Open the setup_phew.py file and run it  
   
-This will connect to the Web, and install the phew library un the lib folder of your pico storage  
+This will connect to the Web, and install the phew library on the lib folder of your 'pico W' storage  
