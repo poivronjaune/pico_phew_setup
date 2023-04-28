@@ -3,7 +3,7 @@ Raspberry Pi Pico W project to setup a wifi connection and launch the installati
 
 ## Installation
 clone this repository on your local drive  
-Use [Thorny](https://thonny.org/) to upload secrets.py and setuo_phew.py to your micro-controller (Raspberry Pi Pico W)  
+Use [Thorny](https://thonny.org/) to upload secrets.py and setup_phew.py to your micro-controller (Raspberry Pi Pico W)  
   
 ## Execution  
 From Thorny update the secrets.py parameters with your specific Wifi credentials  
